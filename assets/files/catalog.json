@@ -1,0 +1,132 @@
+{
+    "Items": [
+        {
+            "id": 1,
+            "name": "Fanta",
+            "desc": "An orange flavoured Cold Drink",
+            "price": 40,
+            "color": "#3305a",
+            "imageurl": "https://cdn.shopify.com/s/files/1/0586/7303/7499/products/th_3fd70ea2-b7d2-462f-b536-11f6ba8a0ed2.jpg?v=1665572784"
+        },
+        {
+            "id": 2,
+            "name": "Pepsi",
+            "desc": "A Cola flavoured Cold Drink",
+            "price": 40,
+            "color": "#3305a",
+            "imageurl": "https://m.media-amazon.com/images/I/51-r9pOh08L.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Coca-Cola",
+            "desc": "A Cola flavoured Cold Drink",
+            "price": 40,
+            "color": "#3305a",
+            "imageurl": "https://m.media-amazon.com/images/I/71YBmiSj-cL.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Limca",
+            "desc": "A lime flavour Cold Drink",
+            "price": 40,
+            "color": "#3305a",
+            "imageurl": "https://eatatmetos.com/wp-content/uploads/2021/03/limca-pet.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Mirinda",
+            "desc": "An orange flavour Cold Drink",
+            "price": 40,
+            "color": "#3305a",
+            "imageurl": "https://m.media-amazon.com/images/I/61A2xyPL6iL.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Thumsup",
+            "desc": "A Cola flavoured Cold Drink",
+            "price": 20,
+            "color": "#3305a",
+            "imageurl": "https://www.modstore.in/media/catalog/product/cache/1/image/1000x1231/17f82f742ffe127f42dca9de82fb58b1/c/o/coca-cola-thumsup-300ml.gif"
+        },
+        {
+            "id": 7,
+            "name": "Sprite",
+            "desc": "A chilled water like drink",
+            "price": 40,
+            "color": "#3305a",
+            "imageurl": "https://m.media-amazon.com/images/I/51TeFnx6GRL.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Slice",
+            "desc": "A Mango flavoured Cold Drink",
+            "price": 40,
+            "color": "#3305a",
+            "imageurl": "https://m.media-amazon.com/images/I/613aK6nd7LL.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Sting",
+            "desc": "An energetic Cold Drink",
+            "price": 20,
+            "color": "#3305a",
+            "imageurl": "https://5.imimg.com/data5/SELLER/Default/2021/5/GA/QN/UA/107425127/250ml-sting-energy-drink.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Charged",
+            "desc": "An energetic Cold Drink",
+            "price": 20,
+            "color": "#3305a",
+            "imageurl": "https://5.imimg.com/data5/SELLER/Default/2022/12/VS/VS/VN/180753703/whatsapp-image-2022-12-08-at-9-51-32-pm-5--500x500.jpg"
+        },
+        {
+            "id": 11,
+            "name": "Dew",
+            "desc": "A lime flavour Cold Drink",
+            "price": 40,
+            "color": "#3305a",
+            "imageurl": "https://www.bigbasket.com/media/uploads/p/l/265874_5-mountain-dew-soft-drink.jpg "
+        },
+        {
+            "id": 12,
+            "name": "Maaza",
+            "desc": "A Mango flavoured Cold Drink",
+            "price": 40,
+            "color": "#3305a",
+            "imageurl": "https://m.media-amazon.com/images/I/61+jGc7vLIL.jpg"
+        },
+        {
+            "id": 13,
+            "name": "Lahori Zeera",
+            "desc": "A jalzeera flavoured Drink",
+            "price": 10,
+            "color": "#3305a",
+            "imageurl": "https://m.media-amazon.com/images/I/41qVPqYUqGL.jpg"
+        },
+        {
+            "id": 14,
+            "name": "Appy Fizz",
+            "desc": "An Apple flavour Cold Drink",
+            "price": 20,
+            "color": "#3305a",
+            "imageurl": "https://5.imimg.com/data5/SELLER/Default/2022/5/ZC/GV/UT/46113780/appy-fizz-160ml.jpg"
+        },
+        {
+            "id": 15,
+            "name": "Red bull",
+            "desc": "An energetic Cold Drink",
+            "price": 120,
+            "color": "#3305a",
+            "imageurl": "https://5.imimg.com/data5/SELLER/Default/2022/11/LQ/SU/JW/36394162/61e28l8rssl-sx679-1--500x500.jpg"
+        },
+        {
+            "id": 16,
+            "name": "7 Up",
+            "desc": "A lime flavour Cold Drink",
+            "price": 60,
+            "color": "#3305a",
+            "imageurl": "https://www.bigbasket.com/media/uploads/p/l/40130830_9-7-up-soft-drink-lemon.jpg"
+        }
+    ]
+}
